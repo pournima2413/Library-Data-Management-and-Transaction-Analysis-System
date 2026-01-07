@@ -1,21 +1,21 @@
-# Library Management System using SQL Project --P2
+# Library Management System using SQL Project 
 
 ## Project Overview
 
-**Project Title**: Library Management System  
-**Level**: Intermediate  
-**Database**: `library_db`
+This project presents a SQL-based system designed to manage library-related data and analyze borrowing transactions. The database stores information about books, members, authors, and transaction records, enabling structured storage and retrieval of data for operational tracking and analysis.
 
-This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
+The focus of the project is on relational database design, data integrity, and querying transactional data using SQL.
+
 
 ![Library_project](https://github.com/najirh/Library-System-Management---P2/blob/main/library.jpg)
 
 ## Objectives
 
-1. **Set up the Library Management System Database**: Create and populate the database with tables for branches, employees, members, books, issued status, and return status.
-2. **CRUD Operations**: Perform Create, Read, Update, and Delete operations on the data.
-3. **CTAS (Create Table As Select)**: Utilize CTAS to create new tables based on query results.
-4. **Advanced SQL Queries**: Develop complex queries to analyze and retrieve specific data.
+1. Design and initialize a relational database to manage library-related data, including branches, staff, members, books, and transaction records.
+2. Populate the database with structured data to support operational and analytical queries.
+3. Perform standard data operations such as inserting new records, retrieving existing data, modifying records, and removing obsolete entries.
+4. Apply Create Table As Select (CTAS) techniques to generate derived tables based on query results.
+5. Develop and execute advanced SQL queries to extract specific information and analyze patterns within the data.
 
 ## Project Structure
 
